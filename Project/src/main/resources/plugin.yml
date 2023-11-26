@@ -1,0 +1,3 @@
+name: YRAttribute
+version: '${project.version}'
+main: org.yirankuma.yrattribute.YRAttribute
